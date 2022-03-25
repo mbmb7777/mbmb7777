@@ -18,7 +18,7 @@
 <p align="center">
   <a href="https://blog.naver.com/mbmb7777"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/mbmb7777"/></a>&nbsp
   <a href="https://www.instagram.com/wo3ong/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/wo3ong/"/></a>&nbsp
-  <a href="www.linkedin.com/in/haewoong"><img src="https://img.shields.io/badge/LinkedIn-d14836?style=flat-square&logo=LinkedIn&logoColor=white&link=www.linkedin.com/in/haewoong"/></a>
+  <a href="https://www.linkedin.com/in/haewoong/"><img src="https://img.shields.io/badge/LinkedIn-d14836?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/haewoong/"/></a>
 </p>
 <br>
 
